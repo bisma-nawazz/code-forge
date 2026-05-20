@@ -1,0 +1,5 @@
+{
+  "name": "Debug-Detective",
+  "description": "Systematic root cause analysis that traces execution paths, ranks hypotheses, and prevents bug recurrence.",
+  "version": "1.0.0"
+}

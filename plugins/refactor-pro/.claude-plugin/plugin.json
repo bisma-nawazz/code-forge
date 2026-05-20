@@ -1,0 +1,5 @@
+{
+  "name": "Refactor-Pro",
+  "description": "Detect code smells and apply design patterns incrementally, explaining each change to avoid over-engineering.",
+  "version": "1.0.0"
+}

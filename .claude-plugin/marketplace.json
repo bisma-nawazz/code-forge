@@ -1,0 +1,39 @@
+{
+    "name": "Code-Forge",
+    "owner": {
+        "name": "Bisma Nawaz"
+    },
+    "plugins": [
+        {
+            "name": "code-reviewer-plugin",
+            "source": "./plugins/code-reviewer",
+            "description": "Deep PR review that catches logic bugs, security vulnerabilities, and performance anti-patterns beyond linting."
+        },
+        {
+            "name": "test-architect-plugin",
+            "source": "./plugins/test-architect",
+            "description": "Generate full test suites or fill coverage gaps across unit, integration, and e2e layers with TDD support."
+        },
+        {
+            "name": "debug-detective-plugin",
+            "source": "./plugins/debug-detective",
+            "description": "Systematic root cause analysis that traces execution paths, ranks hypotheses, and prevents bug recurrence."
+        },
+        {
+            "name": "api-crafter-plugin",
+            "source": "./plugins/api-crafter",
+            "description": "Design and document REST or GraphQL APIs with OpenAPI specs, naming validation, and breaking-change detection."
+        },
+        {
+            "name": "refactor-pro-plugin",
+            "source": "./plugins/refactor-pro",
+            "description": "Detect code smells and apply design patterns incrementally, explaining each change to avoid over-engineering."
+        },
+        {
+            "name": "standup-scribe-plugin",
+            "source": "./plugins/standup-scribe",
+            "description": "Reads meeting notes and threads from Slack, extracts actionable tasks, and summarises them as a clean bullet-point task list — assignee, deadline, and priority included where mentioned."
+        }
+
+    ]
+}

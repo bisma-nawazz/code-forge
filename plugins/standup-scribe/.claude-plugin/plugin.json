@@ -1,0 +1,8 @@
+{
+    "name": "standup-scribe",
+    "description": "Reads meeting notes and threads from Slack, extracts actionable tasks, and summarises them as a clean bullet-point task list — assignee, deadline, and priority included where mentioned.",
+    "version": "1.0.0",
+    "components": {
+        "agents": ["agents/scribe.md"]
+    }
+}

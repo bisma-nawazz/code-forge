@@ -1,0 +1,5 @@
+{
+    "name": "api-crafter",
+    "description": "Designs and documents REST or GraphQL APIs from a feature description or existing code.",
+    "version": "1.0.0"
+}

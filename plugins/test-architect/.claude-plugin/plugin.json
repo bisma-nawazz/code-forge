@@ -1,0 +1,5 @@
+{
+  "name": "Test-Architect",
+  "description": "Generate full test suites or fill coverage gaps across unit, integration, and e2e layers with TDD support.",
+  "version": "1.0.0"
+}

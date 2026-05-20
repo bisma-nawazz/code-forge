@@ -1,0 +1,6 @@
+{
+  "name": "Code-Reviewer",
+  "description": "Deep PR review that catches logic bugs, security vulnerabilities, and performance anti-patterns beyond linting.",
+  "version": "1.0.0"
+
+}
